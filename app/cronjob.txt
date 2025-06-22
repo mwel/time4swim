@@ -1,0 +1,2 @@
+# Cronjob that runs every 10 minutes between 5 am and 11pm
+*/10 5-22 * * * /Users/wavehoover/Development/git/time4swim/venv/bin/python /Users/wavehoover/Development/git/time4swim/app/fetch.py >> /Users/wavehoover/Development/git/time4swim/fetch.log 2>&1
