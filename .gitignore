@@ -50,6 +50,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+*pyc
 
 # Translations
 *.mo
@@ -194,9 +195,9 @@ cython_debug/
 .cursorindexingignore
 
 # Database files
-*.db
-*.sqlite
-*.sqlite3
+# *.db
+# *.sqlite
+# *.sqlite3
 
 # Excel files
 *.xlsx
