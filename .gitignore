@@ -208,3 +208,9 @@ poolmapping.txt
 
 # Logs
 *.log
+
+# Mac files
+.DS_Store
+
+# shell scripts
+*.sh
