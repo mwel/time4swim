@@ -205,3 +205,6 @@ cython_debug/
 
 # Unnessesary files
 poolmapping.txt
+
+# Logs
+*.log
