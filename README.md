@@ -1,8 +1,3 @@
-Certainly – here is the entire README.md, including everything in one file, ready to copy-paste:
-
-⸻
-
-
 # 🏊 time4swim
 
 **Find the best time to swim – based on real-time and historical crowd data from Zurich's pools.**
