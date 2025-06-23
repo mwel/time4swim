@@ -214,3 +214,6 @@ poolmapping.txt
 
 # shell scripts
 *.sh
+
+# crobjobs
+cronjob.txt
